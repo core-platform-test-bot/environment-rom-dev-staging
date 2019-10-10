@@ -10,6 +10,3 @@ dependencies:
 - name: node-promotion
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.13
-- name: some-app
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.7
