@@ -16,3 +16,6 @@ dependencies:
 - name: python
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.6
+- name: suitable-grouse
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
