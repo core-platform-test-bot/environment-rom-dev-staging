@@ -2,6 +2,9 @@ dependencies:
 - name: cuddly-ant
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: decent-cub
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
